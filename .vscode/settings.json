@@ -3,5 +3,5 @@
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "python.formatting.provider": "none",
-    "cSpell.words": ["firerip", "outtmpl", "referer"]
+    "cSpell.words": ["beautifulsoup", "firerip", "outtmpl", "referer"]
 }
